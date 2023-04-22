@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "strict",
+    "java.debug.settings.onBuildFailureProceed": true
+}
